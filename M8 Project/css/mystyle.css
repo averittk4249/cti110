@@ -1,0 +1,12 @@
+
+body {
+    background-image: url("../images/juliusp3ppers.jpg");
+	background-repeat: no-repeat;
+	background-size: cover
+}
+
+body#contact{
+    background-image: url("../images/juliusp3ppers.jpg");
+	background-repeat: no-repeat;
+	background-size: cover
+}
